@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+body{
+    font-family: cursive;
+    background: url("../img/bg.jpg")  no-repeat center/cover;
+
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+#header{
+    padding-top: 80px;
+    min-height: 100vh;
+}
+.header{
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+.title p{
+    font-size: 20px;
+    color: purple;
+    line-height: 25px;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.title h2{
+    font-size: 20px;
+    color: purple;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.title h5{
+    font-size: 20px;
+    color: purple;
+    line-height: 25px;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.title h3{
+    font-size: 20px;
+    color: purple;
+    line-height: 25px;
+    letter-spacing: 2px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.title h4{
+    font-family: font-effect-3d;
+    font-size: 50px;
+    color: purple;
+    line-height: 25px;
+    letter-spacing: 2px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.title h6{
+    font-size: 20px;
+    color: purple;
+    line-height: 25px;
+    letter-spacing: 2px;
+    padding-bottom: 30px;
+    text-align: center;
+}

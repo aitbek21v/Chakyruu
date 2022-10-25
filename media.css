@@ -1,0 +1,94 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1024px)  {
+ .container{
+     width: 90%;
+ }
+}
+@media (max-width: 992px) {
+.container{
+    width: 90%;
+}
+}
+@media (max-width: 768px) {
+.container{
+    width: 90%;
+}
+}
+@media (max-width: 576px) {
+.container{
+    width: 90%;
+}
+}
+@media (max-width: 452px) {
+    .container{
+        width: 90%;
+    }
+    .title p {
+        font-size: 16px}
+    .title h2 {
+        font-size: 16px;}
+    .title h5 {
+        font-size: 14px;}
+    .title h4 {
+        font-size: 41px;}
+    .title h6 {
+        font-size: 16px;}
+}
+@media (max-width: 400px) {
+.container{
+    width: 90%;
+}
+    .title h5 {
+        font-size: 13px;
+    }
+    .title h4 {
+        font-size: 32px;
+        color: blueviolet;
+    }
+}
+@media (max-width: 380px) {
+    .container{
+        width: 90%;
+    }
+    .title p {
+        font-size: 11px;
+    }
+    .title h2 {
+        font-size: 12px;
+    }
+    .title h5 {
+        font-size: 10px;
+    }
+    .title h3 {
+        font-size: 17px;}
+    .title h4 {
+        font-size: 29px;
+        color: wheat;
+    }
+
+
+
+
+}
+@media (max-width: 320px) {
+    .container{
+        width: 90%;
+    }
+    .title h5 {
+        font-size: 9px;
+    }
+    .title h4 {
+        font-size: 26px;}
+    .title h6 {
+        font-size: 14px;
+    }
+}
